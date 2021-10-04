@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sagar-Adhikari-007
 - 👀 I’m very much interested in learning new stuffs about ML && DL.
 - 🌱 I’m currently pursuing bachelor's degree in Computer Science.
-- 💞️ I’m available to collaborate on topics relation to ML and DL.
+- 💞️ I’m available to collaborate on topics related to ML and DL.
 - 📫 you can contact me on my email: adhikarisagar483@gmail.com
 
 <!---
